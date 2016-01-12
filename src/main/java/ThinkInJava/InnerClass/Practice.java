@@ -1,3 +1,4 @@
+package ThinkInJava.InnerClass;
 public class Practice {
 
 //    public Practice(){

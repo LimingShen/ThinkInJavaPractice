@@ -1,3 +1,4 @@
+package ThinkInJava.InnerClass;
 interface Dog {
 	public void spark();
 };

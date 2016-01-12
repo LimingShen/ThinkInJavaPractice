@@ -1,3 +1,4 @@
+package ThinkInJava.InnerClass;
 interface AnonymousInnerClass{
 	public void foo();
 }

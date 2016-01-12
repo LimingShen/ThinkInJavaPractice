@@ -1,3 +1,4 @@
+package ThinkInJava.InnerClass;
 public class Reference {
 	private int itemOuter=3;
 
